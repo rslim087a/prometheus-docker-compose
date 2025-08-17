@@ -1,5 +1,3 @@
-version: '3'
-
 services:
   fastapi-app:
     image: rslim087/fastapi-prometheus:latest
